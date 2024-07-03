@@ -17,7 +17,7 @@
 
     <script>
         let map;
-        const apiKey = 'AIzaSyDC5mLiiaHsAqKKuqSmtZeRUwAiqX3hT_o';
+        const apiKey = 'YOUR_API_KEY';
 
         function initMap() {
             map = new google.maps.Map(document.getElementById('map'), {
